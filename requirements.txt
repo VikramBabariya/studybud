@@ -7,3 +7,4 @@ asgiref~=3.7.2
 sqlparse~=0.4.4
 djangorestframework~=3.14.0
 django-cors-headers~=4.1.0
+pytz~=2023.3
