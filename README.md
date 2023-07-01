@@ -1,8 +1,7 @@
 ## Tech Stack
 - Backend: Django, Django REST Framework 
-- Database: PostgreSQL
+- Database: SQLite
 - Frontend: HTML, CSS
-- Media/Static File Storage: S3 Bucket
 
 ## Home Feed
 <img width="947" alt="studybud-home" src="https://github.com/VikramBabariya/studybud/assets/83386820/4da7d4de-7d3a-4074-8766-bdbf4045b58c">
